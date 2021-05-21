@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Woocommerce
 - 💞️ I’m looking to collaborate on ...Woocomerce
 - 📫 How to reach me ...
+- https://docs.google.com/document/d/1i3GFaIQL41d9Ja23_UBTLvlwcPccdJsVtfBb6z9a6ys/edit?usp=sharing
 
 <!---
 woonotion/woonotion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
