@@ -22,11 +22,11 @@ They can be used by adding them to your functions.php file. I highly recommend u
 * ### Add Content
   * [Add Content Below the Single Product Page Images](https://businessbloomer.com/woocommerce-add-content-below-the-single-product-page-images/)
 
- * [Add Next/Previous @ Single Product Page](https://businessbloomer.com/woocommerce-add-nextprevious-single-product-page/)
+  * [Add Next/Previous @ Single Product Page](https://businessbloomer.com/woocommerce-add-nextprevious-single-product-page/)
 
- * [Display Content Above Add to Cart @ Single Product Page](https://businessbloomer.com/woocommerce-add-text-add-cart-single-product-page/)
+  * [Display Content Above Add to Cart @ Single Product Page](https://businessbloomer.com/woocommerce-add-text-add-cart-single-product-page/)
 
- * [Add Plus & Minus Buttons To Add to Cart Quantity Input](https://businessbloomer.com/woocommerce-add-plus-minus-buttons-to-add-to-cart-quantity-input/)
+  * [Add Plus & Minus Buttons To Add to Cart Quantity Input](https://businessbloomer.com/woocommerce-add-plus-minus-buttons-to-add-to-cart-quantity-input/)
 
 * [“Is This a Gift?” Checkbox @ Single Product Page](https://businessbloomer.com/woocommerce-gift-checkbox-single-product-page/)
 
