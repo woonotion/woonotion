@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Single Product Page
+## Add Content to Single Product Page
 * ### Add Content
   * [Display Advanced Custom Fields](https://businessbloomer.com/woocommerce-display-advanced-custom-fields-single-product/)
 
@@ -50,7 +50,8 @@ You can click the Preview link to take a look at your changes.
   * [Show Published Date @ Single Product](https://businessbloomer.com/woocommerce-show-product-published-date/)
 
 
-## Single Product Page -> Remove Content
+## Remove Content from Single Product Page 
+* ### Remove Content
 
   * [Hide Price & Add to Cart for Logged Out Users](https://businessbloomer.com/woocommerce-hide-price-add-cart-logged-users/)
 
