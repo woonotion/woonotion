@@ -15,9 +15,9 @@ They can be used by adding them to your functions.php file. I highly recommend u
 ## Ultimate Guide: Visual Hook
 https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/
 
-[WooCommerce Visual Hook Guide: Single Product Page](https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/)\
+[WooCommerce Visual Hook Guide: Single Product Page](https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/)
 
-
+\
 
 ## Single Product Page -> Add Content
 
