@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 * [Add CSS to Emails](https://businessbloomer.com/woocommerce-add-css-woocommerce-emails/)
 
 
+<br/>
 
 ## Shop Page -> Add Content
 
