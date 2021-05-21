@@ -20,6 +20,7 @@ They can be used by adding them to your functions.php file. I highly recommend u
 
 ## Single Product Page -> Add Content
 [Add Content Below the Single Product Page Images](https://businessbloomer.com/woocommerce-add-content-below-the-single-product-page-images/)
+[go](https://businessbloomer.com/woocommerce-add-nextprevious-single-product-page/){:target="_blank" rel="noopener"}
 
 https://businessbloomer.com/woocommerce-add-nextprevious-single-product-page/
 
