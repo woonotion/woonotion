@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 * [WordPress Child Theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
 
-* [Add CSS to Emails](https://businessbloomer.com/woocommerce-add-css-woocommerce-emails/)* 
+* [Add CSS to Emails](https://businessbloomer.com/woocommerce-add-css-woocommerce-emails/)
 
 
 
