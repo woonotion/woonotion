@@ -13,3 +13,6 @@ A collection of WooCommerce PHP snippets written by me for adding more functiona
 They can be used by adding them to your functions.php file. I highly recommend using a child theme if this is your first time adding custom code!
 
 ## Ultimate Guide: Visual Hook
+https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/
+
+[WooCommerce Visual Hook Guide: Single Product Page](https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/)
