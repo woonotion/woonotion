@@ -17,7 +17,7 @@ https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/
 
 [WooCommerce Visual Hook Guide: Single Product Page](https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/)
 
-\
+<br/>
 
 ## Single Product Page -> Add Content
 
