@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
+
 ## Useful Links
 
 * [WooCommerce Pages](https://docs.woocommerce.com/document/woocommerce-pages/)
