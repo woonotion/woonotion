@@ -28,11 +28,11 @@ They can be used by adding them to your functions.php file. I highly recommend u
 
   * [Add Plus & Minus Buttons To Add to Cart Quantity Input](https://businessbloomer.com/woocommerce-add-plus-minus-buttons-to-add-to-cart-quantity-input/)
 
- * [“Is This a Gift?” Checkbox @ Single Product Page](https://businessbloomer.com/woocommerce-gift-checkbox-single-product-page/)
+  * [“Is This a Gift?” Checkbox @ Single Product Page](https://businessbloomer.com/woocommerce-gift-checkbox-single-product-page/)
 
- * [Add an Icon to the Add to Cart Buttons](https://businessbloomer.com/woocommerce-add-icon-add-cart-buttons/)
+  * [Add an Icon to the Add to Cart Buttons](https://businessbloomer.com/woocommerce-add-icon-add-cart-buttons/)
 
- * [Order a “Free Sample” @ Single Product Page](https://businessbloomer.com/woocommerce-order-free-sample-single-product-page/)
+  * [Order a “Free Sample” @ Single Product Page](https://businessbloomer.com/woocommerce-order-free-sample-single-product-page/)
 
  * [“Continue Shopping” Button @ Single Product Page](https://businessbloomer.com/woocommerce-continue-shopping-button-single-product-page/)
 
