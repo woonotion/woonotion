@@ -1,0 +1,6 @@
+CustomizeWoo > Module 5 > Lesson 08: Debugging While Coding
+
+Deleting a single array element
+
+If you want to delete just one array element you can use unset()
+
