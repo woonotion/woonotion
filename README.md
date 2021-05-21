@@ -16,3 +16,17 @@ They can be used by adding them to your functions.php file. I highly recommend u
 https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/
 
 [WooCommerce Visual Hook Guide: Single Product Page](https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/)
+
+## Single Product Page: ADD Content
+
+## Single Product Page: REMOVE Content
+
+## Shop Page: ADD Content
+
+## Shop Page: REMOVE Content
+
+## Cart Page: ADD Content
+
+## Cart Page: REMOVE Content
+
+## Checkout Page: ADD Content
