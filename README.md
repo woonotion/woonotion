@@ -16,24 +16,25 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
+## Useful Links
 
-* [WooCommerce Pages:](https://docs.woocommerce.com/document/woocommerce-pages/)
+* [WooCommerce Pages](https://docs.woocommerce.com/document/woocommerce-pages/)
 
-* [WooCommerce Endpoints:](https://docs.woocommerce.com/document/woocommerce-endpoints-2-1/)
+* [WooCommerce Endpoints](https://docs.woocommerce.com/document/woocommerce-endpoints-2-1/)
 
-* [WooCommerce Shortcodes:](https://docs.woocommerce.com/document/woocommerce-shortcodes/)
+* [WooCommerce Shortcodes](https://docs.woocommerce.com/document/woocommerce-shortcodes/)
 
-* [WordPress Action Hooks:](https://developer.wordpress.org/plugins/hooks/actions/)
+* [WordPress Action Hooks](https://developer.wordpress.org/plugins/hooks/actions/)
 
-* [WooCommerce Hooks:](https://docs.woocommerce.com/document/introduction-to-hooks-actions-and-filters/)
+* [WooCommerce Hooks](https://docs.woocommerce.com/document/introduction-to-hooks-actions-and-filters/)
 
-* [WordPress Action Hooks:](https://developer.wordpress.org/plugins/hooks/actions/)
+* [WordPress Action Hooks](https://developer.wordpress.org/plugins/hooks/actions/)
 
-* [WooCommerce Hooks:](https://docs.woocommerce.com/document/introduction-to-hooks-actions-and-filters/)
+* [WooCommerce Hooks](https://docs.woocommerce.com/document/introduction-to-hooks-actions-and-filters/)
 
-* [WordPress Child Theme:](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+* [WordPress Child Theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
 
-* [Add CSS to Emails:](https://businessbloomer.com/woocommerce-add-css-woocommerce-emails/)* 
+* [Add CSS to Emails](https://businessbloomer.com/woocommerce-add-css-woocommerce-emails/)* 
 
 
 
