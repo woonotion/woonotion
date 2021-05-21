@@ -17,16 +17,16 @@ https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/
 
 [WooCommerce Visual Hook Guide: Single Product Page](https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/)
 
-### Single Product Page: ADD Content
+## Single Product Page: Add Content
 
-## Single Product Page: REMOVE Content
+## Single Product Page: Remove Content
 
-## Shop Page: ADD Content
+## Shop Page: Add Content
 
-## Shop Page: REMOVE Content
+## Shop Page: Remove Content
 
-## Cart Page: ADD Content
+## Cart Page: Add Content
 
-## Cart Page: REMOVE Content
+## Cart Page: Remove Content
 
-## Checkout Page: ADD Content
+## Checkout Page -> Add Content
