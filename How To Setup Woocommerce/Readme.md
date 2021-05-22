@@ -282,6 +282,8 @@
 
 * [Order Statuses and Payment Gateways](https://docs.woocommerce.com/document/managing-orders/#section-3)
 
+<br/>
+
 ## Orders List Overview
 * [Viewing and Managing Multiple Orders](https://docs.woocommerce.com/document/managing-orders/#section-5)
 
@@ -295,7 +297,16 @@
 )
 * [Order Actions](https://docs.woocommerce.com/document/managing-orders/#section-10)
 
+<br/>
+
 ## Manage a Single Order
 * [Viewing and Editing a Single Order](https://docs.woocommerce.com/document/managing-orders/#section-11)
 
 * [Custom Fields](https://docs.woocommerce.com/document/managing-orders/#custom-fields)
+
+<br/>
+
+## Emails
+* [Email notifications](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-19)
+
+* [Email Sender Options](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-20)
