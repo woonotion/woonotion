@@ -20,7 +20,7 @@ Tip: Start by reading the Visual Hook Series Below.
 
 <br/>
 
-## Useful Links
+## Useful References
 
 * [WooCommerce Pages](https://docs.woocommerce.com/document/woocommerce-pages/)
 
