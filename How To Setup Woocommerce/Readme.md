@@ -216,7 +216,7 @@
 <br/>
 
 ## Why The System Status Page is Vital
-* [https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/)
+* [Understanding the WooCommerce System Status Report](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/)
 * [System Status](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-1)
 * [Tools](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-16)
 * [Logs](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-17)
