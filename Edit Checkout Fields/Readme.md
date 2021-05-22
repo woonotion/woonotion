@@ -11,3 +11,5 @@
 * [How to Add a Custom Checkout Field (PHP)](https://businessbloomer.com/woocommerce-add-custom-checkout-field-php/)
 
 * [Change Input Field to Textarea](https://businessbloomer.com/woocommerce-change-input-field-to-textarea-checkout/)
+
+* [Tax Exempt User Based on Checkout Field Value](https://www.businessbloomer.com/woocommerce-remove-tax-checkout-field-value-exists/)
