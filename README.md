@@ -8,6 +8,8 @@ The articles are categorized by different pages of woocommerce (e.g. Cart page, 
 
 Open links in new tab to see the articles related to Woocommerce.
 
+<br/>
+
 Tip: Start by reading the Visual Hook Series Below.
 
 <br/>
