@@ -262,7 +262,7 @@
 
 * [Control the shipping method selected by default](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-8)
 
-* [How zones work for customers](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-9
+* [How zones work for customers](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-9)
 
 * [Product Shipping Classes](https://docs.woocommerce.com/document/product-shipping-classes/)
 
