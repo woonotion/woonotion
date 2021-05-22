@@ -43,19 +43,19 @@
 
   * [Move Product Tabs Under the Short Description](https://businessbloomer.com/woocommerce-move-product-tabs-short-description/)
 
-  * [Move Social Sharing @ Single Product Page](https://businessbloomer.com/woocommerce-move-jetpack-social-sharing-single-product-page-tabs/)
+  * [Move Social Sharing](https://businessbloomer.com/woocommerce-move-jetpack-social-sharing-single-product-page-tabs/)
 
   * [Remove “Description” Heading @ Single Product Tabs](https://businessbloomer.com/woocommerce-remove-description-heading-tabs/)
 
-  * [Remove Sidebar @ Single Product Page](https://businessbloomer.com/woocommerce-remove-sidebar-single-product-page/)
+  * [Remove Sidebar](https://businessbloomer.com/woocommerce-remove-sidebar-single-product-page/)
 
-  * [Remove Additional Information Tab @ Single Product](https://businessbloomer.com/woocommerce-remove-additional-information-tab/)
+  * [Remove Additional Information Tab](https://businessbloomer.com/woocommerce-remove-additional-information-tab/)
 
   * [Checkbox to Disable Related Products Conditionally](https://businessbloomer.com/woocommerce-checkbox-to-disable-related-products-conditionally/)
 
-  * [Hide Related Products @ Single Product Page](https://businessbloomer.com/woocommerce-hide-related-products-single-product-page/)
+  * [Hide Related Products](https://businessbloomer.com/woocommerce-hide-related-products-single-product-page/)
 
-  * [Disable Zoom, Gallery Slider & Lightbox @ Single Product](https://businessbloomer.com/woocommerce-disable-zoom-gallery-slider-lightbox-single-product/)
+  * [Disable Zoom, Gallery Slider & Lightbox](https://businessbloomer.com/woocommerce-disable-zoom-gallery-slider-lightbox-single-product/)
 
   * [Hide SKU on the Single Product Page](https://businessbloomer.com/woocommerce-hide-sku-front-end/)
 
@@ -81,4 +81,5 @@
 * [Rename “Tags” Label](https://www.businessbloomer.com/woocommerce-rename-tag-taxonomy/)
 
 * [Category as “Body” Class](https://www.businessbloomer.com/woocommerce-add-category-css-body-class/)
+* [Scroll To Product Tab @ Single Product Page](https://www.businessbloomer.com/woocommerce-scroll-to-product-tab-single-product-page/)
 
