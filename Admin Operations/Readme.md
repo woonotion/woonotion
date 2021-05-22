@@ -45,3 +45,7 @@
 
 * [Flat Rate Calculation Based on Weight](https://www.businessbloomer.com/woocommerce-flat-rate-by-weight/)
 
+* [Disable the Password Strength Meter in WooCommerce – Iconic](https://iconicwp.com/blog/disable-password-strength-meter-woocommerce/)
+
+* [Change the password strength meter labels – Nicola Mustone](https://nicolamustone.blog/2016/02/16/change-the-password-strength-meter-labels/)
+
