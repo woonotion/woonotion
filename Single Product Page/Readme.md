@@ -65,6 +65,9 @@
 
   * [Related Products in a Tab on the Product Page](https://businessbloomer.com/woocommerce-related-products-tab/)
 
+  * [Hide Product Category & Tag](https://www.businessbloomer.com/woocommerce-hide-category-tag-single-product-page/)
+
+
 <br/>
 
 ## Change / Edit Content
@@ -74,4 +77,8 @@
 * [Show Video Instead of Product Images](https://www.businessbloomer.com/woocommerce-show-video-instead-featured-image/)
 
 * [Switch Image Background On Color Variation Selection](https://www.businessbloomer.com/woocommerce-switch-image-background-on-color-variation-selection/)
+
+* [Rename “Tags” Label](https://www.businessbloomer.com/woocommerce-rename-tag-taxonomy/)
+
+* [Category as “Body” Class](https://www.businessbloomer.com/woocommerce-add-category-css-body-class/)
 
