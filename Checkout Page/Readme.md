@@ -59,6 +59,7 @@
 * [Disable Payment Gateway by Country](https://www.businessbloomer.com/disable-payment-gateway-specific-country-woocommerce/)
 * [Disable Payment Method for Specific Category](https://www.businessbloomer.com/woocommerce-disable-payment-method-for-specific-category/)
 
+<br/>
 
 ## Coupon
 * [Edit “Have a Coupon?” Message @ Cart & Checkout](https://www.businessbloomer.com/woocommerce-change-coupon-code-message-cart-checkout/)
