@@ -1,4 +1,3 @@
-![WooCommerce_logo svg](https://user-images.githubusercontent.com/84559502/119216458-67c39180-bb06-11eb-8f9b-24796ca83298.png)
 - 👋 Hi, I’m @woonotion
 - 👀 I’m interested in ...Wordpress and Woocommerce
 - 🌱 I’m currently learning ...Woocommerce
@@ -9,9 +8,11 @@
 <!---
 woonotion/woonotion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->!
+
+
 # Woocommerce Articles with Snippets 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+[logo](https://user-images.githubusercontent.com/84559502/119216537-cf79dc80-bb06-11eb-8bc2-bd251ff73bf4.png)
 
 ## Ultimate Guide: Visual Hook
 [WooCommerce Visual Hook Series](https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/)
@@ -57,3 +58,5 @@ You can click the Preview link to take a look at your changes.
 ## My Account Pages -> Add Content
 
 ## Edit Checkout Fields
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
