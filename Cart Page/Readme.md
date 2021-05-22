@@ -15,5 +15,7 @@
 ## Cart Page: Remove Content
 
 * [Remove Cross-Sells @ Cart Page](https://businessbloomer.com/woocommerce-remove-cross-sells-cart-page/)
+
 * [Move / Remove Coupon Form @ Cart & Checkout](https://businessbloomer.com/woocommerce-move-remove-coupon-form-cart-checkout/)
+
 * [Move & Change Number of Cross-Sells @ Cart Page](https://businessbloomer.com/woocommerce-move-change-number-cross-sells-cart-page/)
