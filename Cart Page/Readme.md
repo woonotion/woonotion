@@ -28,3 +28,5 @@
 * [Display Cart Item Subtotal With Coupon Discount](https://www.businessbloomer.com/woocommerce-display-cart-item-subtotal-coupon-discount/)
 
 * [Apply Coupon Programmatically if Product @ Cart](https://www.businessbloomer.com/woocommerce-apply-coupon-programmatically-product-cart/)
+
+* [Edit “Have a Coupon?” Message @ Cart & Checkout](https://www.businessbloomer.com/woocommerce-change-coupon-code-message-cart-checkout/)
