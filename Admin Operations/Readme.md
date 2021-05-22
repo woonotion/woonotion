@@ -1,6 +1,10 @@
 ## Custom Scripts
 * [How to Create a New Product Type](https://www.businessbloomer.com/woocommerce-how-to-create-a-new-product-type/)
 
+* [Add Column to Orders Table @ WP Dashboard](https://www.businessbloomer.com/woocommerce-add-column-to-orders-table-wp-dashboard/)
+
+* [Advanced Order Search](https://www.businessbloomer.com/woocommerce-advanced-order-search/)
+
 * [Display Custom Product Badge (Conditionally)](https://www.businessbloomer.com/woocommerce-display-custom-product-badge/)
 
 * [Additional Products Table Column @ Admin](https://www.businessbloomer.com/woocommerce-additional-products-table-column-admin/)
