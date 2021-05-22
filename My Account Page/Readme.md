@@ -4,4 +4,4 @@
 * [Add Select Field to “My Account” Register Form](https://businessbloomer.com/woocommerce-add-select-field-account-register-form/)
 * [Add First & Last Name to My Account Register Form](https://businessbloomer.com/woocommerce-add-first-last-name-account-register-form/)
 * [Add Content @ My Account Register / Login Page](https://businessbloomer.com/woocommerce-show-extra-content-my-account-page/)
-
+* [Add a Custom Download File @ My Account](https://www.businessbloomer.com/woocommerce-add-a-custom-download-file-my-account/)
