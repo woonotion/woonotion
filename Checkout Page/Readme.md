@@ -1,8 +1,8 @@
 ## Checkout Page Default Action Hooks:
 
-*  woocommerce_before_checkout_form
+1)  woocommerce_before_checkout_form
 
-*  woocommerce_checkout_before_customer_details
+2)  woocommerce_checkout_before_customer_details
 
 *  woocommerce_checkout_billing
 
