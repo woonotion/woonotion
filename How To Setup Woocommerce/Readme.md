@@ -20,6 +20,21 @@
 
 <br/>
 
+
+## Account Management & Privacy
+* [Accounts and Privacy Settings](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-15)
+
+* [Privacy policy](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-16)
+
+* [Personal data retention](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-17)
+
+* [How To Make A WooCommerce Website GDPR Compliant? (12 Steps)](https://www.businessbloomer.com/how-to-make-a-woocommerce-website-gdpr-compliant-12-steps/)
+
+* [Export or Erase Customer Data](https://docs.woocommerce.com/document/subscriptions/gdpr/#export-or-erase-customer-data)
+
+
+<br/>
+
 ## Why the “Store Address” Matters
 * [Configuring WooCommerce Settings – WooCommerce Docs](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-1)
 
