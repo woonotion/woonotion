@@ -6,7 +6,7 @@
 
 * [Display Variations’ Name & Stock @ Shop Page](https://businessbloomer.com/woocommerce-display-variations-name-stock-shop-page/)
 
-* [ Display % Discount @ Shop & Loop Pages](https://businessbloomer.com/woocommerce-display-discount-shop-loop-pages/)
+* [Display % Discount @ Shop & Loop Pages](https://businessbloomer.com/woocommerce-display-discount-shop-loop-pages/)
 
 * [Display Product Height, Length, Width @ Shop Page](https://businessbloomer.com/woocommerce-display-product-height-length-width-shop-page/)
 
@@ -23,6 +23,8 @@
 * [Show “Sold Out” on Archive/Product Page](https://businessbloomer.com/woocommerce-show-sold-archiveproduct-page/)
 
 * [Display “NEW” Badge on Recent Products](https://businessbloomer.com/woocommerce-new-badge-recent-products/)
+
+* [Display “In Stock” Products First](https://www.businessbloomer.com/woocommerce-show-in-stock-products-first-shop/)
 
 
 
@@ -42,18 +44,40 @@
 
 * [Remove “Showing the Single Result”](https://businessbloomer.com/woocommerce-remove-showing-single-result/)
 
+* [Remove “Showing X Results” @ Shop Page](https://www.businessbloomer.com/woocommerce-remove-showing-single-result/)
+
 * [Display All Products in a Table / List](https://businessbloomer.com/woocommerce-display-products-table/)
 
 * [Disable Link to Product @ Loop](https://businessbloomer.com/woocommerce-disable-link-to-product-loop/)
 
 * [Hide Price & Add to Cart for Logged Out Users](https://businessbloomer.com/woocommerce-hide-price-add-cart-logged-users/)
 
+* [Remove “Shop” Title](https://www.businessbloomer.com/woocommerce-remove-shop-title-woocommerce-shop-page/)
+
+* [Hide Products](https://www.businessbloomer.com/woocommerce-remove-loop-shop-page/)
+
+* [Hide Products From Specific Category](https://www.businessbloomer.com/woocommerce-remove-specific-category-shop-loop/)
+
+* [Hide “No products were found matching your selection”](https://www.businessbloomer.com/woocommerce-hide-no-products-were-found-matching-your-selection/)
+
+<br/>
+
+
+## Change Content
+* [One Product Per Row @ Shop Page](https://www.businessbloomer.com/woocommerce-one-product-per-row-shop-page/)
+
+* [Change Product Permalinks @ Shop / Loop Pages](https://www.businessbloomer.com/woocommerce-change-product-permalinks-shop-loop-pages/
+
+* [Change Number of Products Per Page](https://www.businessbloomer.com/woocommerce-show-number-products-shop-page/)
+
+* [Display Products in a Table Order Form](https://www.businessbloomer.com/woocommerce-display-products-table/)
+
+
 <br/>
 
 ## Geolocate
 
-* [How to Test Geolocation?](https://www.businessbloomer.com/test-woocommerce-geolocation/)
-
 * [Hide Product ID Based on Geolocated Country](https://www.businessbloomer.com/woocommerce-hide-product-based-on-ip-address-geolocation/)
 
 * [Detecting Current User Country (Geolocation)](https://www.businessbloomer.com/woocommerce-detecting-current-user-country-geolocation/)
+
