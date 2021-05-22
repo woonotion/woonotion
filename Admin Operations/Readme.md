@@ -15,3 +15,11 @@
 
 * [Calculate Sales by Coupon Code](https://www.businessbloomer.com/woocommerce-calculate-sales-coupon-code/)
 
+* [Set Custom Order Status for New Orders](https://www.businessbloomer.com/woocommerce-set-custom-order-status-for-new-orders/)
+
+* [Send a Custom Email on Order Status Change](https://www.businessbloomer.com/woocommerce-send-custom-email/)
+
+* [Automatically Complete Processing Orders](https://www.businessbloomer.com/woocommerce-automatically-complete-processing-orders/)
+
+* [Deny Checkout if User Has Pending Orders](https://www.businessbloomer.com/woocommerce-deny-checkout-user-pending-orders/)
+
