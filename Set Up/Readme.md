@@ -162,4 +162,8 @@
 
 * [Add Prefix / Suffix to Product Prices](https://www.businessbloomer.com/woocommerce-add-prefix-suffix-product-prices/)
 
+<br/>
+
+## Checkout
+* [Checkout](https://docs.woocommerce.com/document/woocommerce-customizer/#section-17)
 
