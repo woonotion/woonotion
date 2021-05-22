@@ -65,3 +65,12 @@
 
   * [Related Products in a Tab on the Product Page](https://businessbloomer.com/woocommerce-related-products-tab/)
 
+
+## Change Content
+
+* [Edit External Product Image URL](https://www.businessbloomer.com/woocommerce-edit-external-product-image-url/)
+
+* [Show Video Instead of Product Images](https://www.businessbloomer.com/woocommerce-show-video-instead-featured-image/)
+
+* [Switch Image Background On Color Variation Selection](https://www.businessbloomer.com/woocommerce-switch-image-background-on-color-variation-selection/)
+
