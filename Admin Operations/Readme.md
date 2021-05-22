@@ -37,3 +37,11 @@
 
 * [Add Order Notes to WooCommerce PDF Invoices](https://www.businessbloomer.com/woocommerce-add-order-notes-woocommerce-pdf-invoices/)
 
+* [Hide Shipping Rates if Free Shipping Available](https://www.businessbloomer.com/woocommerce-hide-shipping-options-free-shipping-available/)
+
+* [Shipping Rates by Order Amount](https://www.businessbloomer.com/woocommerce-setup-tiered-shipping-rates-order-amount/)
+
+* [Shipping Rates by Order Amount](https://www.businessbloomer.com/woocommerce-setup-tiered-shipping-rates-order-amount/)
+
+* [Flat Rate Calculation Based on Weight](https://www.businessbloomer.com/woocommerce-flat-rate-by-weight/)
+
