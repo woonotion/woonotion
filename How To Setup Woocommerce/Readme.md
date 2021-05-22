@@ -224,3 +224,10 @@
 * [Adding a coupon](https://docs.woocommerce.com/document/coupon-management/#section-1)
 * [Sending a coupon](https://docs.woocommerce.com/document/coupon-management/#section-5)
 * [Applying a coupon](https://docs.woocommerce.com/document/coupon-management/#section-6)
+
+<br/>
+
+## Order Statuses
+* [Order Statuses](https://docs.woocommerce.com/document/managing-orders/#section-1)
+* [Visual Diagram to Illustrate Order Statuses](https://docs.woocommerce.com/document/managing-orders/#section-2)
+* [Order Statuses and Payment Gateways](https://docs.woocommerce.com/document/managing-orders/#section-3)
