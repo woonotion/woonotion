@@ -5,15 +5,9 @@
 - 📫 How to reach me ...
 - https://docs.google.com/document/d/1i3GFaIQL41d9Ja23_UBTLvlwcPccdJsVtfBb6z9a6ys/edit?usp=sharing
 
-<!---
-woonotion/woonotion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->!
-![68747470733a2f2f776f6f636f6d6d657263652e636f6d2f77702d636f6e74656e742f7468656d65732f776f6f2f696d616765732f6c6f676f2d776f6f636f6d6d657263654032782e706e67](https://user-images.githubusercontent.com/84559502/119216567-ef110500-bb06-11eb-982e-fa837db50cc0.png)
-
 
 # Woocommerce Articles with Snippets 
-[logo](https://user-images.githubusercontent.com/84559502/119216537-cf79dc80-bb06-11eb-8bc2-bd251ff73bf4.png)
+[68747470733a2f2f776f6f636f6d6d657263652e636f6d2f77702d636f6e74656e742f7468656d65732f776f6f2f696d616765732f6c6f676f2d776f6f636f6d6d657263654032782e706e67](https://user-images.githubusercontent.com/84559502/119216567-ef110500-bb06-11eb-982e-fa837db50cc0.png)
 
 ## Ultimate Guide: Visual Hook
 [WooCommerce Visual Hook Series](https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/)
