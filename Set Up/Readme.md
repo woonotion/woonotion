@@ -70,6 +70,32 @@
 
 * [WooCommerce: Calculate Sales by Coupon Code](https://www.businessbloomer.com/woocommerce-calculate-sales-coupon-code/)
 
+* [Configuring Tax Options](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-2)
+
+* [Prices Entered With Tax](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-3)
+
+* [Calculate Tax Based On](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-4)
+
+* [Shipping Tax Class](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-5)
+
+* [Rounding](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-6)
+
+* [Additional Tax Classes](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-7)
+
+* [Setting up tax rates](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-12)
+
+* [Tax rate examples](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-13)
+
+* [Importing and exporting rates](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-14)
+
+* [Import California Tax Rates (.csv)](https://www.businessbloomer.com/woocommerce-import-california-tax-rates-csv/)
+
+* [Tax Exempt User Based on Checkout Field Value](https://www.businessbloomer.com/woocommerce-remove-tax-checkout-field-value-exists/)
+
+* [Display Prices in the Shop](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-8)
+
+* [Display Prices During Cart and Checkout](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-9)
+
 <br/>
 
 
@@ -78,7 +104,7 @@
 
 * [Change a currency symbol](https://docs.woocommerce.com/document/change-a-currency-symbol/)
 
-* [How to Enable WooCommerce Multi-Currency?](How to Enable WooCommerce Multi-Currency?)
+* [How to Enable WooCommerce Multi-Currency?](https://www.businessbloomer.com/charge-customers-currency/)
 
 <br/>
 
@@ -122,6 +148,15 @@
 
 ## Downloadable Products
 * [Downloadable Products](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-10)
+
 * [Automatically Complete Processing Orders](https://www.businessbloomer.com/woocommerce-automatically-complete-processing-orders/)
+
 * [Get List of Downloadable Products](https://www.businessbloomer.com/woocommerce-get-list-of-downloadable-products/)
+
+
+## Price Prefix & Suffix
+* [Price Display Suffix](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-10)
+
+* [Add Prefix / Suffix to Product Prices](https://www.businessbloomer.com/woocommerce-add-prefix-suffix-product-prices/)
+
 
