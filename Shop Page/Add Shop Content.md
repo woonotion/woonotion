@@ -9,7 +9,7 @@
 * [Checkbox to Disable Related Products Conditionally](https://businessbloomer.com/woocommerce-checkbox-to-disable-related-products-conditionally/)
 * [Hide Related Products @ Single Product Page](https://businessbloomer.com/woocommerce-hide-related-products-single-product-page/)
 * [Disable Zoom, Gallery Slider & Lightbox @ Single Product](https://businessbloomer.com/woocommerce-disable-zoom-gallery-slider-lightbox-single-product/)
-* [[Hide SKU on the Single Product Page](https://businessbloomer.com/woocommerce-hide-sku-front-end/)
+* [Hide SKU on the Single Product Page](https://businessbloomer.com/woocommerce-hide-sku-front-end/)
 * [Remove Product Tabs & Echo Long Description](https://businessbloomer.com/woocommerce-remove-product-tabs-echo-long-description/)
 * [Move Product Gallery Thumbnails](https://businessbloomer.com/woocommerce-move-product-gallery-thumbnails/)
 * [Related Products in a Tab on the Product Page](https://businessbloomer.com/woocommerce-related-products-tab/)
