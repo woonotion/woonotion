@@ -62,6 +62,8 @@
 
 * [Hide “No products were found matching your selection”](https://www.businessbloomer.com/woocommerce-hide-no-products-were-found-matching-your-selection/)
 
+* [Remove the Category Counters](https://www.businessbloomer.com/woocommerce-remove-product-category-counters/)
+
 <br/>
 
 
@@ -73,6 +75,10 @@
 * [Change Number of Products Per Page](https://www.businessbloomer.com/woocommerce-show-number-products-shop-page/)
 
 * [Display Products in a Table Order Form](https://www.businessbloomer.com/woocommerce-display-products-table/)
+
+* [Display a Product Categories Dropdown Select](https://www.businessbloomer.com/woocommerce-display-product-categories-select-list/)
+
+* [Add Second Description @ Product Category Pages](https://www.businessbloomer.com/woocommerce-add-a-second-content-box-product-category-pages/)
 
 
 <br/>
