@@ -2,6 +2,11 @@
 
 ![68747470733a2f2f776f6f636f6d6d657263652e636f6d2f77702d636f6e74656e742f7468656d65732f776f6f2f696d616765732f6c6f676f2d776f6f636f6d6d657263654032782e706e67](https://user-images.githubusercontent.com/84559502/119216579-094ae300-bb07-11eb-9c77-2f8543ced512.png)
 
+All the links in this repository points to articles in businessbloomer.com. 
+
+The articles are categorized by different pages of woocommerce (e.g. Cart page, Account Page). Open link in new tab to see the articles related to Woocommerce.
+
+
 <br/>
 
 ## Ultimate Guide: Visual Hook
