@@ -66,7 +66,7 @@
 ## Change Content
 * [One Product Per Row @ Shop Page](https://www.businessbloomer.com/woocommerce-one-product-per-row-shop-page/)
 
-* [Change Product Permalinks @ Shop / Loop Pages](https://www.businessbloomer.com/woocommerce-change-product-permalinks-shop-loop-pages/
+* [Change Product Permalinks @ Shop / Loop Pages](https://www.businessbloomer.com/woocommerce-change-product-permalinks-shop-loop-pages/)
 
 * [Change Number of Products Per Page](https://www.businessbloomer.com/woocommerce-show-number-products-shop-page/)
 
