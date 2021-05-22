@@ -217,3 +217,10 @@
 * [WooCommerce: How to Watch Orders & Data in Real-Time on TV?](https://www.businessbloomer.com/woocommerce-watch-orders-tv/)
 * [Boost Your WooCommerce Sales With Advanced Analytics](https://www.businessbloomer.com/boost-your-woocommerce-sales-with-advanced-analytics/)
 
+<br/>
+
+## Sell Gift Cards / Vouchers
+* [How do You Sell Gift Cards / Vouchers?](https://www.businessbloomer.com/sell-gift-cards-vouchers-woocommerce/)
+* [Adding a coupon](https://docs.woocommerce.com/document/coupon-management/#section-1)
+* [Sending a coupon](https://docs.woocommerce.com/document/coupon-management/#section-5)
+* [Applying a coupon](https://docs.woocommerce.com/document/coupon-management/#section-6)
