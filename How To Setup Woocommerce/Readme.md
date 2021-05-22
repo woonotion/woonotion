@@ -210,37 +210,92 @@
 
 ## Woocommerce Analytics
 * [Advanced WooCommerce Tracking: Analytics, Reports, Exports, Segmentation](https://www.businessbloomer.com/advanced-woocommerce-tracking-analytics-reports-exports-segmentation/)
+
 * [WooCommerce Analytics](https://docs.woocommerce.com/document/woocommerce-analytics/)
+
 * [Analytics Basics](https://docs.woocommerce.com/document/woocommerce-analytics/#section-1)
+
 * [Analytics Settings](https://docs.woocommerce.com/document/woocommerce-analytics/#section-11)
+
 * [Orders Report](https://docs.woocommerce.com/document/woocommerce-analytics/#section-37)
+
 * [Revenue Report](https://docs.woocommerce.com/document/woocommerce-analytics/#section-47)
+
 * [WooCommerce: How to Watch Orders & Data in Real-Time on TV?](https://www.businessbloomer.com/woocommerce-watch-orders-tv/)
+
 * [Boost Your WooCommerce Sales With Advanced Analytics](https://www.businessbloomer.com/boost-your-woocommerce-sales-with-advanced-analytics/)
 
 <br/>
 
 ## Sell Gift Cards / Vouchers
 * [How do You Sell Gift Cards / Vouchers?](https://www.businessbloomer.com/sell-gift-cards-vouchers-woocommerce/)
+
 * [Adding a coupon](https://docs.woocommerce.com/document/coupon-management/#section-1)
+
 * [Sending a coupon](https://docs.woocommerce.com/document/coupon-management/#section-5)
+
 * [Applying a coupon](https://docs.woocommerce.com/document/coupon-management/#section-6)
+
+<br/>
+
+## Shipping
+* [Shipping Options](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-13)
+
+* [Adding and managing zones](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-2)
+
+* [Adding shipping methods to zones](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-6)
+
+* [Control the shipping method selected by default](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-8)
+
+* [How zones work for customers](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-9
+
+* [Product Shipping Classes](https://docs.woocommerce.com/document/product-shipping-classes/)
+
+* [Assign shipping classes to products](https://docs.woocommerce.com/document/product-shipping-classes/#section-3)
+
+* [How to Assign Free Shipping to a Single Product?](https://www.businessbloomer.com/assign-free-shipping-single-woocommerce-product/)
+
+<br/>
+
+## Payment Gatewys
+* [Payments Settings](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-14)
+
+* [PayPal Standard](https://docs.woocommerce.com/document/paypal-standard/)
+
+* [Check Payments](https://docs.woocommerce.com/document/cheque/)
+
+* [Direct Bank Transfer (BACS)](https://docs.woocommerce.com/document/bacs/)
+
+* [Cash on Delivery](https://docs.woocommerce.com/document/cash-on-delivery/)
+
+* [Why Rotating Payment Methods Can Protect your Revenue](https://www.businessbloomer.com/woocommerce-why-rotating-payment-methods-can-protect-your-revenue/)
+
+* [6 Popular Payment Gateways](https://www.businessbloomer.com/6-popular-woocommerce-payment-gateways/
+
 
 <br/>
 
 ## Order Statuses
 * [Order Statuses](https://docs.woocommerce.com/document/managing-orders/#section-1)
+
 * [Visual Diagram to Illustrate Order Statuses](https://docs.woocommerce.com/document/managing-orders/#section-2)
+
 * [Order Statuses and Payment Gateways](https://docs.woocommerce.com/document/managing-orders/#section-3)
 
 ## Orders List Overview
 * [Viewing and Managing Multiple Orders](https://docs.woocommerce.com/document/managing-orders/#section-5)
+
 * [Orders Overview](https://docs.woocommerce.com/document/managing-orders/#section-6)
+
 * [Filter and Arrange Orders](https://docs.woocommerce.com/document/managing-orders/#section-7)
+
 * [Previewing Orders](https://docs.woocommerce.com/document/managing-orders/#section-8)
-* [Order Statuses in the Overview](https://docs.woocommerce.com/document/managing-orders/#section-9)
+
+* [Order Statuses in the Overview](https://docs.woocommerce.com/document/managing-orders/#section-9
+)
 * [Order Actions](https://docs.woocommerce.com/document/managing-orders/#section-10)
 
 ## Manage a Single Order
 * [Viewing and Editing a Single Order](https://docs.woocommerce.com/document/managing-orders/#section-11)
+
 * [Custom Fields](https://docs.woocommerce.com/document/managing-orders/#custom-fields)
