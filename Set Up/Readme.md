@@ -141,10 +141,12 @@
 
 * [Remove Product Tabs, Show Long Description](https://www.businessbloomer.com/woocommerce-remove-product-tabs-echo-long-description/)
 
+<br/>
 
-## Iventory
+## Inventory
 * [Inventory Options](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#inventory-options)
 
+<br/>
 
 ## Downloadable Products
 * [Downloadable Products](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-10)
@@ -153,6 +155,7 @@
 
 * [Get List of Downloadable Products](https://www.businessbloomer.com/woocommerce-get-list-of-downloadable-products/)
 
+<br/>
 
 ## Price Prefix & Suffix
 * [Price Display Suffix](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-10)
