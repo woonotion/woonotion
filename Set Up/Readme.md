@@ -49,7 +49,7 @@
 
 <br/>
 
-## Customization Snippets & Tutorials (To Geolocate or Not)
+## To Geolocate or Not
 * [How to Test Geolocation?](https://www.businessbloomer.com/test-woocommerce-geolocation/)
 
 * [Hide Product ID Based on Geolocated Country](https://www.businessbloomer.com/woocommerce-hide-product-based-on-ip-address-geolocation/)
@@ -62,4 +62,66 @@
 
 <br/>
 
+## Taxes
+
+* [Enabling Taxes](https://docs.woocommerce.com/document/setting-up-taxes-in-woocommerce/#section-1)
+
+* [Enable coupons](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-3)
+
+* [WooCommerce: Calculate Sales by Coupon Code](https://www.businessbloomer.com/woocommerce-calculate-sales-coupon-code/)
+
+<br/>
+
+
+## Shop Currencies
+* [Shop Currency – WooCommerce Docs](https://docs.woocommerce.com/document/shop-currency/)
+
+* [Change a currency symbol](https://docs.woocommerce.com/document/change-a-currency-symbol/)
+
+* [How to Enable WooCommerce Multi-Currency?](How to Enable WooCommerce Multi-Currency?)
+
+<br/>
+
+
+## Defining Add to Cart Behavior
+* [How to change Shop Page SEO Meta Title (“Products Archive”)](https://www.businessbloomer.com/resolved-woocommerce-change-shop-page-seo-meta-title-products-archive/)
+
+* [Custom “Add to Cart” URLs – The Ultimate Guide](https://www.businessbloomer.com/woocommerce-custom-add-cart-urls-ultimate-guide/)
+
+<br/>
+
+
+## Measurement Units for Shipping
+
+* [Measurement Settings](https://docs.woocommerce.com/document/adding-dimensions-and-weights-to-products-for-shipping/#section-1)
+
+* [How to Add Dimension Units to WooCommerce](https://www.skyverge.com/blog/how-to-add-dimension-units-to-woocommerce/)
+
+<br/>
+
+
+## Product Reviews
+* [WooCommerce Docs](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-9)
+
+* [Follow-Up Emails plugin](https://docs.woocommerce.com/document/send-request-review-after-purchase/)
+
+* [Metorik Follow Up Emails](https://metorik.com/blog/woocommerce-follow-up-emails)
+
+* [Display Product Reviews @ Custom Page (Shortcode)](https://www.businessbloomer.com/woocommerce-display-product-reviews-custom-page-shortcode/)
+
+* [Scroll To Product Tab @ Single Product Page](https://www.businessbloomer.com/woocommerce-scroll-to-product-tab-single-product-page/)
+
+* [Rename Product Description Tab Label @ Single Product Page](https://www.businessbloomer.com/woocommerce-edit-product-tabs-labels/)
+
+* [Remove Product Tabs, Show Long Description](https://www.businessbloomer.com/woocommerce-remove-product-tabs-echo-long-description/)
+
+
+## Iventory
+* [Inventory Options](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#inventory-options)
+
+
+## Downloadable Products
+* [Downloadable Products](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-10)
+* [Automatically Complete Processing Orders](https://www.businessbloomer.com/woocommerce-automatically-complete-processing-orders/)
+* [Get List of Downloadable Products](https://www.businessbloomer.com/woocommerce-get-list-of-downloadable-products/)
 
