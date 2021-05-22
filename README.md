@@ -33,20 +33,5 @@
 
 <br/>
 
-## Shop Page -> Add Content
-
-## Shop Page -> Remove Content
-
-## Cart Page -> Add Content
-
-## Cart Page -> Remove Content
-
-## Checkout Page -> Add Content
-
-## Checkout Page -> Remove Content
-
-## My Account Pages -> Add Content
-
-## Edit Checkout Fields
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
