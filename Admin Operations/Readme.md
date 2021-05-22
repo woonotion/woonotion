@@ -11,3 +11,7 @@
 
 * [How to Bulk Edit Products?](https://www.businessbloomer.com/woocommerce-how-to-bulk-edit-products/)
 
+* [Calculate Sales by State](https://www.businessbloomer.com/woocommerce-calculate-sales-state/)
+
+* [Calculate Sales by Coupon Code](https://www.businessbloomer.com/woocommerce-calculate-sales-coupon-code/)
+
