@@ -1,4 +1,3 @@
-
 ## Skipping the WooCommerce Wizard
 
 * [WooCommerce Setup Wizard – WooCommerce Docs](https://docs.woocommerce.com/document/woocommerce-setup-wizard/)
@@ -167,3 +166,32 @@
 ## Checkout
 * [Checkout](https://docs.woocommerce.com/document/woocommerce-customizer/#section-17)
 
+<br/>
+
+## Customize the Shop Page
+* [WooCommerce Customizer – Manage Store Notice, Catalog View and Product Images](https://docs.woocommerce.com/document/woocommerce-customizer/)
+* [Store Notice](https://docs.woocommerce.com/document/woocommerce-customizer/#section-2)
+* [Product Catalog](https://docs.woocommerce.com/document/woocommerce-customizer/#section-7)
+
+<br/>
+
+## WooCommerce Image Sizes
+* [Adding Product Images and Galleries](https://docs.woocommerce.com/document/adding-product-images-and-galleries/)
+* [FAQ](https://docs.woocommerce.com/document/adding-product-images-and-galleries/#section-9)
+
+<br/>
+
+## Product Categories, Tags and Attributes
+* [WooCommerce: Should I Noindex Product Tag Pages?](https://www.businessbloomer.com/noindex-woocommerce-product-tag-pages/)
+
+<br/>
+
+## Product Types
+* [Product Types](https://docs.woocommerce.com/document/managing-products/#section-4)
+* [How to bundle products with WooCommerce](https://docs.woocommerce.com/document/group-bundle-products-woocommerce/)
+
+
+## Adding/Editing a WooCommerce Product
+* [Adding and Managing Products](https://docs.woocommerce.com/document/managing-products/)
+* [Adding a simple product](https://docs.woocommerce.com/document/managing-products/#section-5)
+* [Adding a variable product](https://docs.woocommerce.com/document/managing-products/#section-17)
