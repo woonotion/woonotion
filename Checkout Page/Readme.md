@@ -43,6 +43,8 @@
 
 * [Enable Payment Gateway Only for “Order Pay Checkout”](https://www.businessbloomer.com/woocommerce-enable-payment-gateway-only-for-order-pay-checkout/)
 
+* [Allow to “Pay for Order” Without Login](https://www.businessbloomer.com/woocommerce-allow-to-pay-for-order-without-login/)
+
 <br/>
 
 ## Checkout Page: Remove Content
