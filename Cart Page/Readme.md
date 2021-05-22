@@ -20,6 +20,7 @@
 
 * [Move & Change Number of Cross-Sells @ Cart Page](https://businessbloomer.com/woocommerce-move-change-number-cross-sells-cart-page/)
 
+<br/>
 
 ## Coupon
 * [Slashed Cart Subtotal if Coupon @ Cart](https://www.businessbloomer.com/woocommerce-slashed-cart-subtotal-coupon-cart/)
