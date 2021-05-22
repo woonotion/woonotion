@@ -19,3 +19,11 @@
 * [Move / Remove Coupon Form @ Cart & Checkout](https://businessbloomer.com/woocommerce-move-remove-coupon-form-cart-checkout/)
 
 * [Move & Change Number of Cross-Sells @ Cart Page](https://businessbloomer.com/woocommerce-move-change-number-cross-sells-cart-page/)
+
+
+## Coupon
+* [Slashed Cart Subtotal if Coupon @ Cart](https://www.businessbloomer.com/woocommerce-slashed-cart-subtotal-coupon-cart/)
+
+* [Display Cart Item Subtotal With Coupon Discount](https://www.businessbloomer.com/woocommerce-display-cart-item-subtotal-coupon-discount/)
+
+* [Apply Coupon Programmatically if Product @ Cart](https://www.businessbloomer.com/woocommerce-apply-coupon-programmatically-product-cart/)
