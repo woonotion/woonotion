@@ -4,19 +4,19 @@
 
 2)  woocommerce_checkout_before_customer_details
 
-*  woocommerce_checkout_billing
+3)  woocommerce_checkout_billing
 
-*  woocommerce_checkout_shipping
+4)  woocommerce_checkout_shipping
 
-*  woocommerce_checkout_after_customer_details
+5)  woocommerce_checkout_after_customer_details
 
-*  woocommerce_checkout_before_order_review
+6)  woocommerce_checkout_before_order_review
 
-*  woocommerce_checkout_order_review
+7)  woocommerce_checkout_order_review
 
-*  woocommerce_checkout_after_order_review
+8)  woocommerce_checkout_after_order_review
 
-*  woocommerce_after_checkout_form
+9)  woocommerce_after_checkout_form
 
 <br/>
 
