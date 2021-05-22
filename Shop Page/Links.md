@@ -1,4 +1,4 @@
-[Hide Price & Add to Cart for Logged Out Users](https://businessbloomer.com/woocommerce-hide-price-add-cart-logged-users/)
+* [Hide Price & Add to Cart for Logged Out Users](https://businessbloomer.com/woocommerce-hide-price-add-cart-logged-users/)
 * [Change # of Upsells and Move Them Above Tabs](https://businessbloomer.com/woocommerce-change-number-upsells-move-product-tabs/)
 * [Remove Additional Info Tab from all Products](https://businessbloomer.com/woocommerce-remove-additional-info-tab-products/)
 * [Move Product Tabs Under the Short Description](https://businessbloomer.com/woocommerce-move-product-tabs-short-description/)
