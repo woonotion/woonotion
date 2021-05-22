@@ -23,3 +23,13 @@
 
 * [Deny Checkout if User Has Pending Orders](https://www.businessbloomer.com/woocommerce-deny-checkout-user-pending-orders/)
 
+* [Allow Users to Edit Processing Orders](https://www.businessbloomer.com/woocommerce-edit-orders/)
+
+* [Save & Display Order Total Weight](https://www.businessbloomer.com/woocommerce-save-display-order-total-weight/)
+
+* [Update User Meta After a Successful Order](https://www.businessbloomer.com/woocommerce-update-user-meta-successful-order/)
+
+* [Set Checkout Field Value @ Order Creation](https://www.businessbloomer.com/woocommerce-set-checkout-field-value-order-creation/)
+
+* [Add Order Notes to WooCommerce PDF Invoices](https://www.businessbloomer.com/woocommerce-add-order-notes-woocommerce-pdf-invoices/)
+
