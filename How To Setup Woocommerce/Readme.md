@@ -190,8 +190,18 @@
 * [Product Types](https://docs.woocommerce.com/document/managing-products/#section-4)
 * [How to bundle products with WooCommerce](https://docs.woocommerce.com/document/group-bundle-products-woocommerce/)
 
+<br/>
 
 ## Adding/Editing a WooCommerce Product
 * [Adding and Managing Products](https://docs.woocommerce.com/document/managing-products/)
 * [Adding a simple product](https://docs.woocommerce.com/document/managing-products/#section-5)
 * [Adding a variable product](https://docs.woocommerce.com/document/managing-products/#section-17)
+
+<br/>
+
+## Why The System Status Page is Vital
+* [https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/)
+* [System Status](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-1)
+* [Tools](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-16)
+* [Logs](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-17)
+
