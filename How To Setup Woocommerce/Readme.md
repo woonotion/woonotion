@@ -325,3 +325,18 @@
 * [Email notifications](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-19)
 
 * [Email Sender Options](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#section-20)
+
+<br/>
+
+## API and Webhooks
+
+* WordPress REST API https://developer.wordpress.org/rest-api/
+
+* WooCommerce REST API dev docs https://woocommerce.github.io/woocommerce-rest-api-docs/#introduction
+
+* WooCommerce REST API settings https://docs.woocommerce.com/document/woocommerce-rest-api/
+
+* WooCommerce wiki getting started with REST API https://github.com/woocommerce/woocommerce/wiki/Getting-started-with-the-REST-API
+
+* WooCommerce webhooks docs https://docs.woocommerce.com/document/webhooks
+
