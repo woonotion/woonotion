@@ -38,6 +38,8 @@
 * [Display Weight @ Cart & Checkout](https://businessbloomer.com/woocommerce-display-weight-cart-checkout/)
 
 * [Add Privacy Policy Checkbox @ Checkout](https://businessbloomer.com/woocommerce-additional-acceptance-checkbox-checkout/)
+* [Add Checkout Fee for a Payment Gateway (e.g. PayPal)](https://www.businessbloomer.com/woocommerce-add-fee-to-cart/)
+* [Enable Payment Gateway Only for “Order Pay Checkout”](https://www.businessbloomer.com/woocommerce-enable-payment-gateway-only-for-order-pay-checkout/)
 
 <br/>
 
@@ -50,6 +52,12 @@
 * [Remove or Move User Login / Registration at Checkout](https://businessbloomer.com/woocommerce-remove-move-loginregistration-checkout/)
 
 * [Hide Coupon Code @ Cart & Checkout Page](https://businessbloomer.com/woocommerce-hide-coupon-code-cartcheckout-page/)
+
+* [Disable Payment Gateway For Specific Shipping Method](https://www.businessbloomer.com/woocommerce-disable-payment-gateway-for-specific-shipping-method/)
+* [How to Disable PayPal on Orders Above $100](https://www.businessbloomer.com/woocommerce-disable-paypal-orders-100/)
+* [Disable Payment Gateway for Specific User Role](https://www.businessbloomer.com/disable-payment-gateway-specific-user-role-woocommerce/)
+* [Disable Payment Gateway by Country](https://www.businessbloomer.com/disable-payment-gateway-specific-country-woocommerce/)
+* [Disable Payment Method for Specific Category](https://www.businessbloomer.com/woocommerce-disable-payment-method-for-specific-category/)
 
 
 ## Coupon
