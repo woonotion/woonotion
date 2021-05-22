@@ -9,8 +9,9 @@
 
 ## Analyzing the WooCommerce System Status
 
-https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/
-https://developer.woocommerce.com/2019/04/01/performance-improvements-in-3-6/
+* https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/
+
+* https://developer.woocommerce.com/2019/04/01/performance-improvements-in-3-6/
 
 <br/>
 
