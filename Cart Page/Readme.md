@@ -9,6 +9,8 @@
 
 * [“You Only Need $$$ to Get Free Shipping!” @ Cart](https://businessbloomer.com/woocommerce-add-need-spend-x-get-free-shipping-cart-page/)
 
+* [Shipping by Weight](https://www.businessbloomer.com/woocommerce-shipping-weight-without-plugin/)
+
 
 <br/>
 
