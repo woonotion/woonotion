@@ -4,8 +4,11 @@
 
 All the links in this repository points to articles in businessbloomer.com. 
 
-The articles are categorized by different pages of woocommerce (e.g. Cart page, Account Page). Open link in new tab to see the articles related to Woocommerce.
+The articles are categorized by different pages of woocommerce (e.g. Cart page, Account Page). 
 
+Open links in new tab to see the articles related to Woocommerce.
+
+Tip: Start by reading the Visual Hook Series Below.
 
 <br/>
 
