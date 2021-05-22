@@ -1,4 +1,4 @@
-##Checkout Page: Remove Content
+## Checkout Page: Remove Content
 
 
 * [Add Upsell Area @ Checkout Page](https://businessbloomer.com/woocommerce-add-upsell-area-checkout-page/)
