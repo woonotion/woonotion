@@ -50,3 +50,8 @@
 * [Remove or Move User Login / Registration at Checkout](https://businessbloomer.com/woocommerce-remove-move-loginregistration-checkout/)
 
 * [Hide Coupon Code @ Cart & Checkout Page](https://businessbloomer.com/woocommerce-hide-coupon-code-cartcheckout-page/)
+
+
+## Coupon
+* [Edit “Have a Coupon?” Message @ Cart & Checkout](https://www.businessbloomer.com/woocommerce-change-coupon-code-message-cart-checkout/)
+
