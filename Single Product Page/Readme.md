@@ -65,8 +65,9 @@
 
   * [Related Products in a Tab on the Product Page](https://businessbloomer.com/woocommerce-related-products-tab/)
 
+<br/>
 
-## Change Content
+## Change/Edit Content
 
 * [Edit External Product Image URL](https://www.businessbloomer.com/woocommerce-edit-external-product-image-url/)
 
