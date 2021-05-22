@@ -67,7 +67,7 @@
 
 <br/>
 
-## Change/Edit Content
+## Change / Edit Content
 
 * [Edit External Product Image URL](https://www.businessbloomer.com/woocommerce-edit-external-product-image-url/)
 
