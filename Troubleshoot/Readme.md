@@ -14,16 +14,6 @@ https://developer.woocommerce.com/2019/04/01/performance-improvements-in-3-6/
 
 <br/>
 
-## Picking the Right Hosting
-* [WooCommerce: What’s the Best Hosting Provider?](https://www.businessbloomer.com/whats-best-hosting-woocommerce-website/)
-
-* [WooCommerce: How to Safely Update Via Staging](https://www.businessbloomer.com/how-to-safely-update-woocommerce-via-staging/)
-
-* [WooCommerce: How to Clone/Migrate (Step by Step)?](https://www.businessbloomer.com/how-to-clone-migrate-woocommerce-step-by-step/)
-
-* [WooCommerce: How Many Products Can It Handle?](https://www.businessbloomer.com/many-products-can-woocommerce-handle/)
-
-<br/>
 
 ## Troubleshooting-Related articles
 
@@ -42,6 +32,7 @@ https://developer.woocommerce.com/2019/04/01/performance-improvements-in-3-6/
 * [GitHub WooCommerce Plugin support](https://github.com/woocommerce/woocommerce/issues)
 
 <br/>
+
 ##  Plugins
 
 Quickly and easily rollback any theme or plugin from WordPress.org to any previous (or newer) version without any of the manual fuss.
@@ -52,5 +43,17 @@ Two factor authentication (TFA / 2FA)
 
 Stops brute-force attacks
 [Limit Login Attempts Reloaded – WordPress plugin](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
+
+<br/>
+
+## Picking the Right Hosting
+* [WooCommerce: What’s the Best Hosting Provider?](https://www.businessbloomer.com/whats-best-hosting-woocommerce-website/)
+
+* [WooCommerce: How to Safely Update Via Staging](https://www.businessbloomer.com/how-to-safely-update-woocommerce-via-staging/)
+
+* [WooCommerce: How to Clone/Migrate (Step by Step)?](https://www.businessbloomer.com/how-to-clone-migrate-woocommerce-step-by-step/)
+
+* [WooCommerce: How Many Products Can It Handle?](https://www.businessbloomer.com/many-products-can-woocommerce-handle/)
+
 
 
