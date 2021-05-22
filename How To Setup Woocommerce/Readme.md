@@ -285,7 +285,7 @@
 
 * [Why Rotating Payment Methods Can Protect your Revenue](https://www.businessbloomer.com/woocommerce-why-rotating-payment-methods-can-protect-your-revenue/)
 
-* [6 Popular Payment Gateways](https://www.businessbloomer.com/6-popular-woocommerce-payment-gateways/
+* [6 Popular Payment Gateways](https://www.businessbloomer.com/6-popular-woocommerce-payment-gateways/)
 
 
 <br/>
