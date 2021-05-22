@@ -5,6 +5,8 @@
   
   * [Add “Quantity” Label in front of Add to Cart Button](https://businessbloomer.com/woocommerce-add-quantity-label-front-add-cart-button/)
 
+  * [Full Width Featured Image](https://www.businessbloomer.com/woocommerce-full-width-featured-image-single-product-page/)
+
   * [Show Number Of Products Sold on Product Page](https://businessbloomer.com/woocommerce-show-number-products-sold-product-page/)
   
   * [Add Content Below the Single Product Page Images](https://businessbloomer.com/woocommerce-add-content-below-the-single-product-page-images/)
