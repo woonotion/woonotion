@@ -29,7 +29,8 @@
 
   * [Add RRP / MSRP to Products (Without a Plugin)](https://businessbloomer.com/woocommerce-display-rrp-msrp-manufacturer-price/)
 
-  * [Show Published Date @ Single Product](https://businessbloomer.com/woocommerce-show-product-published-date/)
+  * [Show Published Date](https://businessbloomer.com/woocommerce-show-product-published-date/)
+  * [Show Dispatch / Est. Shipping Date](https://www.businessbloomer.com/woocommerce-show-dispatch-est-shipping-date-single-product/)
 
 <br/>
 
@@ -46,6 +47,8 @@
   * [Move Social Sharing](https://businessbloomer.com/woocommerce-move-jetpack-social-sharing-single-product-page-tabs/)
 
   * [Remove “Description” Heading @ Single Product Tabs](https://businessbloomer.com/woocommerce-remove-description-heading-tabs/)
+
+  * [ Rename “Description” Title @ Single Product Page Tabs](https://www.businessbloomer.com/woocommerce-rename-product-description-single-product-page/)
 
   * [Remove Sidebar](https://businessbloomer.com/woocommerce-remove-sidebar-single-product-page/)
 
@@ -81,5 +84,9 @@
 * [Rename “Tags” Label](https://www.businessbloomer.com/woocommerce-rename-tag-taxonomy/)
 
 * [Category as “Body” Class](https://www.businessbloomer.com/woocommerce-add-category-css-body-class/)
+
 * [Scroll To Product Tab @ Single Product Page](https://www.businessbloomer.com/woocommerce-scroll-to-product-tab-single-product-page/)
+* [Calculate Subtotal On Quantity Increment](https://www.businessbloomer.com/woocommerce-calculate-subtotal-on-quantity-increment-single-product/)
+* [Move & Customize Upsells](https://www.businessbloomer.com/woocommerce-move-customize-upsells-single-product/)
+* [Rename Product Description Tab Label](https://www.businessbloomer.com/woocommerce-edit-product-tabs-labels/)
 
