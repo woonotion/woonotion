@@ -165,6 +165,7 @@
 
 ## Checkout
 * [Checkout](https://docs.woocommerce.com/document/woocommerce-customizer/#section-17)
+* [How to Redirect Users to a Custom Thank You Page?](https://www.businessbloomer.com/redirect-users-custom-thank-page/)
 
 <br/>
 
@@ -231,3 +232,15 @@
 * [Order Statuses](https://docs.woocommerce.com/document/managing-orders/#section-1)
 * [Visual Diagram to Illustrate Order Statuses](https://docs.woocommerce.com/document/managing-orders/#section-2)
 * [Order Statuses and Payment Gateways](https://docs.woocommerce.com/document/managing-orders/#section-3)
+
+## Orders List Overview
+* [Viewing and Managing Multiple Orders](https://docs.woocommerce.com/document/managing-orders/#section-5)
+* [Orders Overview](https://docs.woocommerce.com/document/managing-orders/#section-6)
+* [Filter and Arrange Orders](https://docs.woocommerce.com/document/managing-orders/#section-7)
+* [Previewing Orders](https://docs.woocommerce.com/document/managing-orders/#section-8)
+* [Order Statuses in the Overview](https://docs.woocommerce.com/document/managing-orders/#section-9)
+* [Order Actions](https://docs.woocommerce.com/document/managing-orders/#section-10)
+
+## Manage a Single Order
+* [Viewing and Editing a Single Order](https://docs.woocommerce.com/document/managing-orders/#section-11)
+* [Custom Fields](https://docs.woocommerce.com/document/managing-orders/#custom-fields)
