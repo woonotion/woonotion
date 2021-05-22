@@ -1,15 +1,8 @@
-- 👋 Hi, I’m @woonotion
-- 👀 I’m interested in ...Wordpress and Woocommerce
-- 🌱 I’m currently learning ...Woocommerce
-- 💞️ I’m looking to collaborate on ...Woocomerce
-- 📫 How to reach me ...
-- https://docs.google.com/document/d/1i3GFaIQL41d9Ja23_UBTLvlwcPccdJsVtfBb6z9a6ys/edit?usp=sharing
+https://docs.google.com/document/d/1i3GFaIQL41d9Ja23_UBTLvlwcPccdJsVtfBb6z9a6ys/edit?usp=sharing
 
-
-
-![68747470733a2f2f776f6f636f6d6d657263652e636f6d2f77702d636f6e74656e742f7468656d65732f776f6f2f696d616765732f6c6f676f2d776f6f636f6d6d657263654032782e706e67](https://user-images.githubusercontent.com/84559502/119216579-094ae300-bb07-11eb-9c77-2f8543ced512.png)
 # Articles with Snippets 
-[a relative link]https://github.com/woonotion/woonotion/blob/main/Checkout%20Page/Links)
+![68747470733a2f2f776f6f636f6d6d657263652e636f6d2f77702d636f6e74656e742f7468656d65732f776f6f2f696d616765732f6c6f676f2d776f6f636f6d6d657263654032782e706e67](https://user-images.githubusercontent.com/84559502/119216579-094ae300-bb07-11eb-9c77-2f8543ced512.png)
+
 
 
 ## Ultimate Guide: Visual Hook
