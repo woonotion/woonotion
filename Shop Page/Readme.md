@@ -1,22 +1,24 @@
 ## Shop Page -> Add Content
 
-* [Add Text Under Each Product @ Shop Page](https://businessbloomer.com/woocommerce-add-text-product-shop-page-loop/)
+* [Add Text Under Each Product](https://businessbloomer.com/woocommerce-add-text-product-shop-page-loop/)
+
+* [Hide Category Images](https://www.businessbloomer.com/woocommerce-hide-category-images-shop/)
 
 * [Add a Second Content Box @ Product Category Pages](https://businessbloomer.com/woocommerce-add-a-second-content-box-product-category-pages/)
 
-* [Display Variations’ Name & Stock @ Shop Page](https://businessbloomer.com/woocommerce-display-variations-name-stock-shop-page/)
+* [Display Variations’ Name & Stock](https://businessbloomer.com/woocommerce-display-variations-name-stock-shop-page/)
 
 * [Display % Discount @ Shop & Loop Pages](https://businessbloomer.com/woocommerce-display-discount-shop-loop-pages/)
 
-* [Display Product Height, Length, Width @ Shop Page](https://businessbloomer.com/woocommerce-display-product-height-length-width-shop-page/)
+* [Display Product Height, Length, Width](https://businessbloomer.com/woocommerce-display-product-height-length-width-shop-page/)
 
 * [Display Brands @ Loop, Shop & Category Pages](https://businessbloomer.com/woocommerce-brands-display-brands-loop-shop-category-pages/)
 
-* [Show Unique Category @ Shop Page](https://businessbloomer.com/woocommerce-show-unique-category-shop-page/)
+* [Show Unique Category](https://businessbloomer.com/woocommerce-show-unique-category-shop-page/)
 
-* [Display Stock Quantity on Shop Page](https://businessbloomer.com/woocommerce-add-stock-quantity-on-shop-page/)
+* [Display Stock Quantity](https://businessbloomer.com/woocommerce-add-stock-quantity-on-shop-page/)
 
-* [Show Product Subcategories @ Shop Page](https://businessbloomer.com/woocommerce-show-product-subcategories/)
+* [Show Product Subcategories](https://businessbloomer.com/woocommerce-show-product-subcategories/)
 
 * [Show Product Custom Field in the Category Pages](https://businessbloomer.com/woocommerce-show-product-custom-field-in-the-category-pages/)
 
