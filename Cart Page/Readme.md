@@ -20,6 +20,8 @@
 
 * [Move & Change Number of Cross-Sells @ Cart Page](https://businessbloomer.com/woocommerce-move-change-number-cross-sells-cart-page/)
 
+* [Hide Shipping Rate if Shipping Class @ Cart](https://www.businessbloomer.com/woocommerce-disable-free-shipping-if-cart-has-shipping-class/)
+
 <br/>
 
 ## Coupon
