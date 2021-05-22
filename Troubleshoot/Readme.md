@@ -35,17 +35,11 @@ https://developer.woocommerce.com/2019/04/01/performance-improvements-in-3-6/
 
 ##  Plugins
 
-Quickly and easily rollback any theme or plugin to any previous (or newer) version:
+Quickly and easily rollback any theme or plugin to any previous (or newer) version: [WP Rollback – WordPress plugin](https://wordpress.org/plugins/wp-rollback/)
 
-[WP Rollback – WordPress plugin](https://wordpress.org/plugins/wp-rollback/)
+Two factor authentication (TFA / 2FA): [Two Factor Authentication – Plugin WordPress](https://it.wordpress.org/plugins/two-factor-authentication/)
 
-Two factor authentication (TFA / 2FA)
-
-[Two Factor Authentication – Plugin WordPress](https://it.wordpress.org/plugins/two-factor-authentication/)
-
-Stops brute-force attacks
-
-[Limit Login Attempts Reloaded – WordPress plugin](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
+Stops brute-force attacks: [Limit Login Attempts Reloaded – WordPress plugin](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
 
 <br/>
 
