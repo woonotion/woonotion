@@ -47,3 +47,13 @@
 * [Disable Link to Product @ Loop](https://businessbloomer.com/woocommerce-disable-link-to-product-loop/)
 
 * [Hide Price & Add to Cart for Logged Out Users](https://businessbloomer.com/woocommerce-hide-price-add-cart-logged-users/)
+
+<br/>
+
+## Geolocate
+
+* [How to Test Geolocation?](https://www.businessbloomer.com/test-woocommerce-geolocation/)
+
+* [Hide Product ID Based on Geolocated Country](https://www.businessbloomer.com/woocommerce-hide-product-based-on-ip-address-geolocation/)
+
+* [Detecting Current User Country (Geolocation)](https://www.businessbloomer.com/woocommerce-detecting-current-user-country-geolocation/)
