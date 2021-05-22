@@ -205,3 +205,15 @@
 * [Tools](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-16)
 * [Logs](https://docs.woocommerce.com/document/understanding-the-woocommerce-system-status-report/#section-17)
 
+<br/>
+
+## Woocommerce Analytics
+* [Advanced WooCommerce Tracking: Analytics, Reports, Exports, Segmentation](https://www.businessbloomer.com/advanced-woocommerce-tracking-analytics-reports-exports-segmentation/)
+* [WooCommerce Analytics](https://docs.woocommerce.com/document/woocommerce-analytics/)
+* [Analytics Basics](https://docs.woocommerce.com/document/woocommerce-analytics/#section-1)
+* [Analytics Settings](https://docs.woocommerce.com/document/woocommerce-analytics/#section-11)
+* [Orders Report](https://docs.woocommerce.com/document/woocommerce-analytics/#section-37)
+* [Revenue Report](https://docs.woocommerce.com/document/woocommerce-analytics/#section-47)
+* [WooCommerce: How to Watch Orders & Data in Real-Time on TV?](https://www.businessbloomer.com/woocommerce-watch-orders-tv/)
+* [Boost Your WooCommerce Sales With Advanced Analytics](https://www.businessbloomer.com/boost-your-woocommerce-sales-with-advanced-analytics/)
+
