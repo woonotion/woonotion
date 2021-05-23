@@ -1,3 +1,9 @@
+## Remove Fields
+
+* [Remove fields from WooCommerce checkout page.](https://gist.github.com/cryptexvinci/75ba823a824b29e04a08ee7893fc0ee5)
+
+<br/>
+
 ## Edit Checkout Fields
 
 * [Edit or translate “Shipping and Handling” on the Cart & Checkout page](https://businessbloomer.com/woocommerce-edit-translate-shipping-handling-cart-checkout-page/)
