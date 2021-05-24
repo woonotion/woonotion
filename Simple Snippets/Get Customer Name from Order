@@ -1,0 +1,6 @@
+<? php
+
+$order = wc_get_order(65);
+$order_data = $order->get_data();
+echo $order_data['billing'​][​'first_name'​] . ​" "​ .
+$order_data['billing'​][​'last_name'​];
