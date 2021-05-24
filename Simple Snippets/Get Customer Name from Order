@@ -1,4 +1,4 @@
-<? php
+<?php
 
 $order = wc_get_order(65);
 $order_data = $order->get_data();
