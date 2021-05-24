@@ -1,6 +1,8 @@
 ## Custom Scripts
 * [How to Create a New Product Type](https://www.businessbloomer.com/woocommerce-how-to-create-a-new-product-type/)
 
+* [How to get order details?](https://stackoverflow.com/questions/39401393/how-to-get-woocommerce-order-details)
+
 * [Add Column to Orders Table @ WP Dashboard](https://www.businessbloomer.com/woocommerce-add-column-to-orders-table-wp-dashboard/)
 
 * [Advanced Order Search](https://www.businessbloomer.com/woocommerce-advanced-order-search/)
