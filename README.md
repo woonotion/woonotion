@@ -17,6 +17,17 @@ Tip: Start by reading the Visual Hook Series Below.
 ## Ultimate Guide: Visual Hook
 [WooCommerce Visual Hook Series](https://www.businessbloomer.com/category/woocommerce-tips/visual-hook-series/)
 
+<br/>
+
+
+## Other Wordpress Code Snippet Library
+
+* [theandersonn](https://github.com/theandersonn/wp-snippets)
+
+* [heyjoecampbell](https://github.com/heyjoecampbell/wordpress-snippets)
+
+* [bojanfriscic](https://github.com/bojanfriscic/wordpress-snippets)
+
 
 <br/>
 
