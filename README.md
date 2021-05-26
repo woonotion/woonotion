@@ -20,7 +20,7 @@ Tip: Start by reading the Visual Hook Series Below.
 <br/>
 
 ## Unsure about a php function?
-Paste the function and seeing other examples may help to understand how it works: [Code Examples](https://hotexamples.com/)
+Search the function and seeing other examples may help to understand how it works: [Code Examples](https://hotexamples.com/)
 
 <br/>
 
