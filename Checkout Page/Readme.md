@@ -22,6 +22,7 @@
 
 ## Checkout Page: Add Content
 
+* [Add GDPR Compliance Field to Checkout](https://github.com/bojanfriscic/wordpress-snippets/blob/master/Woocommerce/gdpr_checkout.php)
 
 * [Add Upsell Area @ Checkout Page](https://businessbloomer.com/woocommerce-add-upsell-area-checkout-page/)
 
