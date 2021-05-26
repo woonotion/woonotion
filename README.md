@@ -22,6 +22,8 @@ Tip: Start by reading the Visual Hook Series Below.
 
 ## Other Wordpress Code Snippet Library
 
+* [Code Snippets for WordPress and WooCommerce](https://github.com/lukecav/code-snippets-wp-speed-up) - Requires the 'Code Snippets' Plugin
+
 * [theandersonn](https://github.com/theandersonn/wp-snippets)
 
 * [heyjoecampbell](https://github.com/heyjoecampbell/wordpress-snippets)
