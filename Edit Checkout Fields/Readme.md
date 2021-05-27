@@ -6,6 +6,8 @@
 
 ## Edit Checkout Fields
 
+* [Billing same as Shipping](https://stackoverflow.com/questions/49835577/woocommerce-copy-shipping-address-to-billing-address)
+
 * [Edit or translate “Shipping and Handling” on the Cart & Checkout page](https://businessbloomer.com/woocommerce-edit-translate-shipping-handling-cart-checkout-page/)
 
 * [Edit “Returning Customer?” Message](https://businessbloomer.com/woocommerce-edit-returning-customer-message-checkout/)
