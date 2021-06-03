@@ -19,6 +19,17 @@ Tip: Start by reading the Visual Hook Series Below.
 
 <br/>
 
+## How to access Order Details?
+[The “$order” object](https://www.businessbloomer.com/woocommerce-easily-get-order-info-total-items-etc-from-order-object/)
+
+<br/>
+
+## How to access Product Details?
+
+[The “$product” object](https://www.businessbloomer.com/woocommerce-easily-get-product-info-title-sku-desc-product-object/)
+
+<br/>
+
 ## Unsure about a php function?
 Search the function and seeing other examples may help to understand how it works: [Code Examples](https://hotexamples.com/)
 
