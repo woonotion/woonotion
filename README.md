@@ -28,6 +28,12 @@ Tip: Start by reading the Visual Hook Series Below.
 
 [The “$product” object](https://www.businessbloomer.com/woocommerce-easily-get-product-info-title-sku-desc-product-object/)
 
+If we want to access a product’s details in many cases we’ll be able to access
+them using the **$product** global variable.
+
+If we only have access to a product’s id then we can retrieve it’s details using
+the **wc_get_product** function.
+
 <br/>
 
 ## Unsure about a php function?
