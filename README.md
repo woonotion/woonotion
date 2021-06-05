@@ -34,6 +34,12 @@ If we only have access to a product’s id then we can retrieve it’s details u
 
 <br/>
 
+## How to access details of all Products added to cart?
+
+[$cart = WC()->cart;](https://www.businessbloomer.com/woocommerce-get-cart-info-total-items-etc-from-cart-object/)
+
+<br/>
+
 ## Unsure about a php function?
 Search the function and seeing other examples may help to understand how it works: [Code Examples](https://hotexamples.com/)
 
