@@ -55,6 +55,7 @@ Search the function and seeing other examples may help to understand how it work
 
 * [heyjoecampbell](https://github.com/heyjoecampbell/wordpress-snippets)
 
+* [Chinmoy Paul](https://gist.github.com/cpaul007)
 
 
 <br/>
